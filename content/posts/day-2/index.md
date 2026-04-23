@@ -1,5 +1,5 @@
 ---
-title: "day 1: The Vision Behind This Blog"
+title: "day 2: The Vision Behind This Blog"
 date: 2026-04-23
 draft: false
 ---
