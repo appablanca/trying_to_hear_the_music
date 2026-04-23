@@ -9,12 +9,12 @@
     <lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Vision Behind This Blog</title>
+      <title>day 1: The Vision Behind This Blog</title>
       <link>http://localhost:1313/posts/day-1/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/day-1/</guid>
       <description>&lt;p&gt;Today I started this blog.&lt;/p&gt;
-&lt;p&gt;I started my Master’s at KIT on 20.04.2026. Since then, I have been struggling with the content of my courses, which are:&lt;/p&gt;
+&lt;p&gt;I began my Master’s at KIT on 20.04.2026. Since then, I’ve been struggling with the content of my courses:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Advanced Data Structures&lt;/li&gt;
 &lt;li&gt;Parameterized Algorithms&lt;/li&gt;
@@ -23,7 +23,7 @@
 &lt;li&gt;Seminar: Fine-Grained Complexity Theory and Algorithms&lt;/li&gt;
 &lt;li&gt;Seminar: Current Trends in Theoretical Computer Science&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It might be too early to be concerned about my understanding of the course material, but I am not used to not understanding the content during lectures. During my Bachelor’s, I would usually understand everything during the lecture and sometimes even move ahead of it.&lt;/p&gt;</description>
+&lt;p&gt;It might be too early to worry about my understanding, but I’m not used to &lt;em&gt;not&lt;/em&gt; understanding what’s going on in lectures. During my Bachelor’s, I would usually follow everything in real time—sometimes even staying ahead.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
