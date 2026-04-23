@@ -12,3 +12,5 @@ theme = "PaperMod"
   name = "Posts"
   url = "/posts/"
   weight = 10
+
+  baseURL = "https://appablanca.github.io/trying_to_hear_the_music/"
