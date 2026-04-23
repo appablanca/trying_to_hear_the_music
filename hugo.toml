@@ -1,5 +1,4 @@
-baseURL = "http://localhost:1313/"
-title = "Trying to Hear The Music"
+baseURL = "https://appablanca.github.io/trying_to_hear_the_music/"title = "Trying to Hear The Music"
 theme = "PaperMod"
 
 [params]
@@ -13,4 +12,3 @@ theme = "PaperMod"
   url = "/posts/"
   weight = 10
 
-  baseURL = "https://appablanca.github.io/trying_to_hear_the_music/"
