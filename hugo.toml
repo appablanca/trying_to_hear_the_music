@@ -5,5 +5,10 @@ theme = "PaperMod"
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
 
-
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10

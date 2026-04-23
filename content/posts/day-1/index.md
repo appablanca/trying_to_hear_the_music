@@ -25,4 +25,4 @@ This blog will document my attempt to adapt to this new way of thinking about al
 
 Ideally, I’ll make an entry to this blog daily—but no promises.
 
-{{< spotify 5TRPicyLGbAF2LGBFbHGvO >}}
+{{< spotify 4VnDmjYCZkyeqeb0NIKqdA >}}
