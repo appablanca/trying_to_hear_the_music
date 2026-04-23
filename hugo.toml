@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+title = "Trying to Hear The Music"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
