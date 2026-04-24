@@ -3,7 +3,7 @@ title: "day 2: Slow But Steady"
 date: 2026-04-24
 draft: false
 ---
- 
+
 Understanding rarely arrives all at once.
 Most of the time, it begins with confusion.
 
