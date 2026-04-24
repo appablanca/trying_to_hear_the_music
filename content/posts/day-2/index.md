@@ -19,7 +19,7 @@ When I got back I did some catching up on Complexity Theory, OVH, APSP, 3SUM, SA
 After I started working on the exercise sheet.
 I could only finish one problem in 1–2 hours, but it’s still progress no matter how big it is.
 
-$$ \[n < n \cdot \log^c n < n^{1+\varepsilon} < n^{2-\varepsilon} < n^{2-\frac{1}{\log \log n}} < \frac{n^2}{2^{\sqrt{\log n}}} < \frac{n^2 \log \log n}{\log n} < n^2\] $$
+\[n < n \cdot \log^c n < n^{1+\varepsilon} < n^{2-\varepsilon} < n^{2-\frac{1}{\log \log n}} < \frac{n^2}{2^{\sqrt{\log n}}} < \frac{n^2 \log \log n}{\log n} < n^2\]
 
 I realise that the other people in the class are able to tackle the problems because they have intuition that they have built during their Bachelor's.
 I must do the same.
@@ -30,7 +30,6 @@ The moral of today is;
     Hardness should never be a deterring factor
     Repetition is key
     Any progress is progress
-
 
 
 
