@@ -12,7 +12,7 @@ Again the lecture flew by me.
 
 Not completely though, I could understand the problem statements and the proofs, I just couldn’t figure out the relation. I didn’t understand why that proof proved that problem statement.
 
-After the lecture I took a long walk in [Schlossgarten](https://www.google.com/search?num=10&sca_esv=bb30fa950d57da1f&rlz=1C5CHFA_enTR1150TR1150&sxsrf=ANbL-n5YSJ7Wv8H07CdeqU4nIOi2XVuiOA:1777064311888&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3ppPEReeCOS7s1VbbZz2TLsHwpSX8VU1h5wlQRdyYz8mdqdsiFzM1Wx31brSEv8rWHPReR0wVYb_AdAMxmDLwj4AdQGRqeI9tf3UUMZzzX8SPo6LHz9j7Wrzd29lNgkIJh_TyWQ&q=schlossgartensee+karlsruhe&sa=X&ved=2ahUKEwjtjLa4sIeUAxWySvEDHZXEKBEQtKgLegQIFRAB&biw=1920&bih=958&dpr=1) to think about my expectations and my path. I landed on the idea that my current path was the correct one and I should keep following my instincts.
+After the lecture I took a long walk in <a href="https://www.google.com/maps/search/Karlsruhe+Schlossgarten" target="_blank" rel="noopener noreferrer">Schlossgarten</a> to think about my expectations and my path. I landed on the idea that my current path was the correct one and I should keep following my instincts.
 Something being hard doesn’t mean that it’s not meant for you.
 
 When I got back I did some catching up on Complexity Theory, OVH, APSP, 3SUM, SAT with GPT as a form of conversation which was really helpful. It’s been a long time since I tackled these subjects so I am pretty rusty.
