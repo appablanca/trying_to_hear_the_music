@@ -6,6 +6,6 @@ draft: false
 
 $$
 
-n < \frac{n^2 \log \log n}{\log n} < n^2
+n^2
 
 $$
