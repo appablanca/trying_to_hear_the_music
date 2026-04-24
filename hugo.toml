@@ -1,19 +1,16 @@
 baseURL = "https://appablanca.github.io/trying_to_hear_the_music/"
-languageCode = "en-us"
-title = "Trying to Hear the Music"
+title = "Trying to Hear The Music"
 theme = "PaperMod"
+titleCaseStyle = "chicago"
 
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
 
-  [params.homeInfoParams]
-    Title = "Trying to Hear the Music"
-    Content = "Trying to build intuition and understand the approach"
-
 [[menu.main]]
   identifier = "posts"
   name = "Posts"
-  url = "posts/"
+  url = "/posts/"
   weight = 10
+
