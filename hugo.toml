@@ -7,6 +7,7 @@ titleCaseStyle = "chicago"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  math = true
 
 [[menu.main]]
   identifier = "posts"
@@ -14,3 +15,11 @@ titleCaseStyle = "chicago"
   url = "/posts/"
   weight = 10
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [["\\[", "\\]"], ["$$", "$$"]]
+          inline = [["\\(", "\\)"]]
